@@ -19,3 +19,11 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
+#Firebase
+firebase.json
+.firebaserc
+.firestore.indexes.json
+firestore.rules
+package-lock.json
+storage.rules

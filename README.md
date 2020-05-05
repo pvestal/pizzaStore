@@ -1,5 +1,7 @@
 # pizzastore
 
+cdn for Bootstrap required in index.html
+
 ## Project setup
 ```
 npm install
